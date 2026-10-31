@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-local",
+  "displayName": "InsightfulPipe Local Marketing Skills",
+  "description": "12 free Claude skills for local businesses: Google Business Profile, reviews, local rank tracking, citations, Local Services Ads and multi-location plans.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills",
+  "repository": "https://github.com/Insightful-Pipe/local-skills",
+  "license": "MIT",
+  "keywords": [
+    "local-seo",
+    "google-business-profile",
+    "reviews",
+    "local-marketing",
+    "claude-skills",
+    "marketing"
+  ]
+}
