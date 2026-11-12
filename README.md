@@ -32,7 +32,7 @@ Download a skill's ZIP from its page on insightfulpipe.com (the **Page** links b
 | Skill | What it does | |
 |---|---|---|
 | [Google Business Profile Manager](skills/google-business-profile-manager/) | Audits Google Business Profile locations on Google Maps, grading completeness, hours, photos, posts, reviews and calls, ranks the locations, and drafts posts and review… |  |
-| [Local Business Marketing Report](skills/local-business-marketing-report/) | Builds a local business marketing report from Google Business Profile and Search Console with a 30/60/90-day local SEO plan, or a 90-day marketing plan for one location. |  |
+| [Local Business Marketing Report](skills/local-business-marketing-report/) | Builds a local business marketing report from Google Business Profile and Search Console with a 30/60/90-day local SEO plan, or a 90-day marketing plan for one location. | [Page](https://insightfulpipe.com/marketing-claude-skills/local/local-business-marketing-report) |
 | [Local Citation and NAP Audit](skills/local-citation-nap-audit/) | Audits local citations and NAP consistency, comparing name, address, phone, website and hours on each listing with the Google Business Profile, and flags duplicate Maps… |  |
 | [Local Competitor Gap Analysis](skills/local-competitor-gap/) | Compares a local business with the Google Maps listings that outrank it in the map pack on categories, reviews, photos, hours and website, and ranks the gaps by impact. |  |
 | [Local Lead Ads Planner](skills/local-lead-ads-planner/) | Grades Yelp Ads, Angi, Thumbtack and Nextdoor Ads spend by booked jobs, not leads, sets the most a lead can cost, picks services and ZIP codes to keep, and drafts lead… |  |
